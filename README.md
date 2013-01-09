@@ -1,4 +1,2 @@
-CSpace
-======
-
-机构知识库开源软件CSpace (A Open Source Institutional Repository Software) 
+Please visit:
+http://sourceforge.net/projects/cspace-ir/
